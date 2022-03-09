@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/abdo/projects/FH/ESP/Assignment-2/main.c
+assert.h
+-
+queue.h
+/Users/abdo/projects/FH/ESP/Assignment-2/queue.h
+
+/Users/abdo/projects/FH/ESP/Assignment-2/queue.c
+queue.h
+/Users/abdo/projects/FH/ESP/Assignment-2/queue.h
+
+/Users/abdo/projects/FH/ESP/Assignment-2/queue.h
+

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/abdo/projects/FH/ESP/Assignment-1/main.cpp
+assert.h
+-
+queue.hpp
+/Users/abdo/projects/FH/ESP/Assignment-1/queue.hpp
+
+/Users/abdo/projects/FH/ESP/Assignment-1/queue.hpp
+stddef.h
+-
+

@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names -L/usr/local/opt/tcl-tk/lib CMakeFiles/Assignment_2.dir/main.c.o CMakeFiles/Assignment_2.dir/queue.c.o -o Assignment_2 
